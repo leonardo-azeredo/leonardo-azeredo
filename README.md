@@ -16,6 +16,7 @@ leonardo-azeredo/leonardoazeredo
 <img align="center" height="60" width="60" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="max-width: 100%;"> <a/>
 <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"> <a/>
 <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"> <a/>
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="max-width: 100%;"> <a/>
 
 My LinkedIn
 
