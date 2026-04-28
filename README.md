@@ -1,28 +1,84 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello, I'm Leonardo Azeredo
 
-leonardo-azeredo/leonardoazeredo
+🚀 **DevOps Engineer | Cloud & Platform Engineering | Azure | Kubernetes**
 
-## My name is Leonardo Azeredo Pereira, 23 years old!
- - I have 3 years of experience in Infrastructure/Cloud/Azure/IaaS/SRE
- - Some stacks that I have knowledge are below.
+I build and operate **cloud-native infrastructure** focused on scalability, reliability, and observability.  
+Strong hands-on experience with Kubernetes in production environments and modern DevOps practices.
 
+---
 
-<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://cdn0.iconfinder.com/data/icons/network-15/512/Modem-512.png" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://www.intelstd.com/zabbix/img/touch-icon-192x192.png" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://previews.123rf.com/images/tawatchaimaneewan/tawatchaimaneewan1711/tawatchaimaneewan171100003/89446941-vector-of-network-switch-or-router-icon-set.jpg" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"> <a/>
-<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="max-width: 100%;"> <a/>
+## ⚙️ Core Stack
 
-My LinkedIn
+### ☁️ Cloud
+- Azure (AKS, Networking, Storage, ACR, WebApps)
+- AWS (EC2, VPC)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonazeredo/) 
+### 🚢 Containers & Orchestration
+- Docker
+- Kubernetes (AKS)
+- Helm
 
-<!---
-leonardo-azeredo/leonardo-azeredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 Observability
+- Prometheus
+- Grafana
+- Loki / Promtail
+- Elastic Stack
+- Datadog
+- Zabbix
+
+### 🔀 Networking & Security
+- NGINX / Traefik / AGIC
+- Cloudflare (CDN, caching, rules, workers)
+- VPN / Firewalls (Fortinet, Mikrotik, SonicWall)
+
+### 📦 Messaging & Streaming
+- Apache Pulsar
+- VerneMQ (MQTT)
+
+### 💾 Backup & DR
+- Velero
+
+### 🔧 CI/CD & Automation
+- Azure DevOps
+- Jenkins
+- GitLab CI
+- SonarQube
+
+### 💻 Scripting
+- Python
+- PowerShell
+- Bash
+
+### 🖥️ Systems
+- Linux (Ubuntu)
+- Windows Server
+
+---
+
+## 🧠 What I Do
+
+- Design and operate Kubernetes platforms (AKS)
+- Build CI/CD pipelines and automate deployments
+- Implement observability (metrics, logs, alerts)
+- Troubleshoot production environments
+- Optimize cost, performance, and reliability
+- Support distributed and event-driven architectures
+
+---
+
+## 📈 Currently Focusing On
+
+- Advanced Kubernetes (CKA / CKAD)
+- Platform Engineering
+- Observability at scale
+- Cloud cost optimization
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonazeredo/)
+
+---
+
+💡 *Focused on building scalable and reliable cloud infrastructure.*
